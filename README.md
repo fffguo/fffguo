@@ -5,8 +5,8 @@
 - 🌱 现在的我：搬砖码农 :clown_face:
 - 👯 未来的我：搬砖码农 :clown_face:
 - 🤔 CSDN: https://blog.csdn.net/u014155085
-- 💬 email: kye666@vip.qq.com
-- 📫 愿景: 还清房贷 :clown_face:
+- 📫 email: kye666@vip.qq.com
+- :rocket: 愿景: 还清房贷 :clown_face:
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fffguo&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/fffguo)
