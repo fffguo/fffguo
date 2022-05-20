@@ -4,11 +4,7 @@
 
 ### Hello 我是fffguo 👋
 
-
-- 🔭 过去的我：搬砖码农:clown_face:
-- 🌱 现在的我：搬砖码农:clown_face:
-- 👯 未来的我：搬砖码农:clown_face:
-- :rocket: 长期目标：还清房贷:clown_face:
+一个喜欢有挑战性工作的"社畜"
 
 
 
